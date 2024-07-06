@@ -1,2 +1,0 @@
-Automate Terraform with GitHub Actions
-https://developer.hashicorp.com/terraform/tutorials/automation/github-actions
