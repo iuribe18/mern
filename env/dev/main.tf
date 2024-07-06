@@ -22,7 +22,7 @@ provider "aws" {
 
 locals {
   project_name = "poridhi"
-  key_name     = "linux"
+  key_name     = "nana"
   environment  = "dev"
   common_tags = {
     environment = local.environment
